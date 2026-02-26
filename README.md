@@ -78,7 +78,7 @@ Customer-Churn-Analysis/
 
 ## 👤 Author
 
-**Nitinredhu** — Aspiring Data Analyst passionate about turning raw data into actionable insights.
+**Nitish** — Aspiring Data Analyst passionate about turning raw data into actionable insights.
 
 ---
 
