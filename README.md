@@ -1,2 +1,34 @@
 # Customer-Churn-Analysis
 Telco Customer Churn Analysis using PostgreSQL and Power BI
+
+# Telco Customer Churn Analysis
+
+## Project Overview
+Analyzed a telecom customer dataset using PostgreSQL and Power BI to identify churn patterns and revenue loss drivers.
+
+## Tools Used
+- PostgreSQL
+- Power BI
+- SQL
+- Excel
+
+## Key Insights
+- Identified 26.54% customer churn rate
+- Estimated $139K revenue loss due to churn
+- Month-to-month contracts showed highest churn risk
+- Electronic check users had highest churn rate
+
+## Dashboard Analysis
+Churn analyzed based on:
+- Contract Type
+- Tenure
+- Payment Method
+- Monthly Charges
+
+## Dataset
+7000+ telecom customer records
+
+## Project Files
+- SQL queries for churn analysis
+- Power BI dashboard
+- Dataset used for analysis
