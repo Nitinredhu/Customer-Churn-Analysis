@@ -32,6 +32,13 @@ A comprehensive end-to-end data analysis project on a **7,000+ record telecom da
 
 ---
 
+## 📊 Dashboard Preview
+
+> ![Dashboard Preview](dashboard.png)
+
+
+---
+
 ## 📈 Dashboard Analysis
 
 Churn was analyzed across four key dimensions:
